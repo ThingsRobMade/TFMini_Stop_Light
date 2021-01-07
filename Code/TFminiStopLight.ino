@@ -4,7 +4,7 @@
 
   This code is a small practical demonstration application
   of the TFMini Lidar Module. The 3D files can be found in
-  the Github repository, here [ INSERT GITHUB LINK ]
+  the Github repository, here [ https://github.com/ThingsRobMade/TFMini_Stop_Light ]
   Based heavily on the previous collaborative work done by
   Nate Seidle and Benewake. The original example sketch for
   the Qwiic Enabled TFMini can be found here:
